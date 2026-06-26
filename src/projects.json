@@ -1,26 +1,111 @@
 [
   {
     "id": 1,
-    "title": "LinkedIn Clone",
-    "description": "A frontend clone of LinkedIn homepage with responsive layout.",
-    "category": "clone",
+    "title": "Redux Clone",
+    "description": "A responsive frontend clone inspired by the Redux website, built using HTML and CSS with a focus on layout and design.",
+    "category": "Frontend Clone",
     "tech": ["HTML", "CSS"],
-    "link": "#"
+    "github": "https://github.com/NehaSharma2602/Redux",
+    "demo": ""
   },
   {
     "id": 2,
-    "title": "Portfolio Website",
-    "description": "Modern portfolio built with React and Tailwind.",
-    "category": "react",
-    "tech": ["React", "Tailwind"],
-    "link": "#"
+    "title": "Razor Clone",
+    "description": "A responsive clone of the Razorpay landing page showcasing modern UI design using HTML and CSS.",
+    "category": "Frontend Clone",
+    "tech": ["HTML", "CSS"],
+    "github": "https://github.com/NehaSharma2602/RazorClone",
+    "demo": ""
   },
   {
     "id": 3,
+    "title": "Microsoft Clone",
+    "description": "A frontend clone of the Microsoft homepage featuring responsive layouts and modern styling techniques.",
+    "category": "Frontend Clone",
+    "tech": ["HTML", "CSS"],
+    "github": "https://github.com/NehaSharma2602/MicrosoftCloned",
+    "demo": ""
+  },
+  {
+    "id": 4,
+    "title": "Kamya Food",
+    "description": "A responsive food ordering website frontend designed using HTML and CSS with an attractive user interface.",
+    "category": "Frontend",
+    "tech": ["HTML", "CSS"],
+    "github": "https://github.com/NehaSharma2602/KamyaFoodCLoned",
+    "demo": ""
+  },
+  {
+    "id": 5,
     "title": "Student Management System",
-    "description": "Console-based Java project for managing student records.",
-    "category": "java",
-    "tech": ["Java"],
-    "link": "#"
+    "description": "A web-based application to manage student records with CRUD operations using Java Servlets, JSP, and Hibernate.",
+    "category": "Java Web",
+    "tech": ["Java", "Servlets", "JSP", "Hibernate"],
+    "github": "https://github.com/NehaSharma2602/Student-Management-System",
+    "demo": ""
+  },
+  {
+    "id": 6,
+    "title": "Online Quiz Console Application",
+    "description": "A console-based quiz application with score tracking and database connectivity using Java and JDBC.",
+    "category": "Java",
+    "tech": ["Java", "JDBC"],
+    "github": "https://github.com/NehaSharma2602/Online-Quiz-Console-based-Application",
+    "demo": ""
+  },
+  {
+    "id": 7,
+    "title": "Leave Management System",
+    "description": "A full-stack leave management system with employee authentication, leave requests, approvals, and PostgreSQL database integration.",
+    "category": "Spring Boot",
+    "tech": [
+      "Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "Hibernate",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/NehaSharma2602/Leave-management-System",
+    "demo": ""
+  },
+  {
+    "id": 8,
+    "title": "Bank Management System",
+    "description": "A banking application supporting customer management, account operations, and transaction handling using Spring Boot and PostgreSQL.",
+    "category": "Spring Boot",
+    "tech": [
+      "Java",
+      "Spring Boot",
+      "Spring Data JPA",
+      "Hibernate",
+      "PostgreSQL",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/NehaSharma2602/Bank-Management-System",
+    "demo": ""
+  },
+  {
+    "id": 9,
+    "title": "Job Portal & Applicant Tracking System",
+    "description": "A full-stack recruitment platform where recruiters can post jobs, manage applications, and track candidates, while applicants can search and apply for jobs securely.",
+    "category": "Spring Boot",
+    "tech": [
+      "Java",
+      "Spring Boot",
+      "Spring Security",
+      "Spring Data JPA",
+      "Hibernate",
+      "PostgreSQL",
+      "React",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "github": "https://github.com/NehaSharma2602/job-portal-applicant-tracking-system",
+    "demo": ""
   }
 ]
