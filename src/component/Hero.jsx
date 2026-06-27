@@ -51,7 +51,7 @@ const Hero = () => {
           ></div>
 
           <img
-            src="neha sharma.jpeg"
+            src="/neha-sharma.jpeg"
             alt="Neha Sharma"
             draggable={false}
             onContextMenu={(e) => e.preventDefault()}
